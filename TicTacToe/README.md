@@ -14,7 +14,9 @@ The player can simply reset the board after each game or when need arises by cli
 
 ## Notes
 
-Explain any issues or testing instructions.
+If the player decides to click cancel instead of choosing a name it will automaticly give the name
+of either Player 1 or Player 2. The board does not reset after each round until th player clicks the
+reset board button.
 
 ## Do not change content below this line
 ## Adapted from a README Built With
