@@ -4,7 +4,6 @@ A basic Unit Converter that will convert time and length units.
 
 ## Example Output
 
-This image will display as your example output. Name the image README.jpg in your project folder.
 
 ![Sample Output](START.jpg)
 
